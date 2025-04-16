@@ -12,11 +12,11 @@ A short description of what this storyboard is about goes here.
 
 <div style="margin-bottom: 2rem;">
   <iframe width="560" height="400" 
-  src="https://speakerdeck.com/player/2fcc1105e1bb42f0a449630d5fa5a134" 
-  frameborder="0" 
-  allowfullscreen 
-  title="Test">
-</iframe>
+    src="https://speakerdeck.com/player/2fcc1105e1bb42f0a449630d5fa5a134" 
+    frameborder="0" 
+    allowfullscreen 
+    title="Test">
+  </iframe>
 </div>
 
 ---
