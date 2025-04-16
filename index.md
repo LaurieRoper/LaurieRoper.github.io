@@ -4,8 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+title: "Storyboards"
 ---
 
+## Storyboard 1
 
 A short description of what this storyboard is about goes here.
 
