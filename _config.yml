@@ -75,9 +75,10 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-footer:
-  credits: false
-  show: false  # Hide the footer entirely
+custom_footer: |
+  <p class="text-small">
+    &copy; {{ site.time | date: '%Y' }} Laurie Roper.
+  </p>
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
