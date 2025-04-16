@@ -6,7 +6,6 @@ layout: single
 author_profile: true
 ---
 
-## Storyboard 1
 
 A short description of what this storyboard is about goes here.
 
