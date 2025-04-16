@@ -79,10 +79,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/LaurieRoper_Art"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/laurie_roper/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:Laurie_roper@outlook.com"
 
 atom_feed:
   hide: true
