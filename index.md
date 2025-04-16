@@ -11,7 +11,12 @@ author_profile: true
 A short description of what this storyboard is about goes here.
 
 <div style="margin-bottom: 2rem;">
-  <iframe class="speakerdeck-iframe" style="border: 0px; background: rgba(0, 0, 0, 0.1) padding-box; margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 100%; height: auto; aspect-ratio: 560 / 712;" frameborder="0" src="https://speakerdeck.com/player/2fcc1105e1bb42f0a449630d5fa5a134" title="Test" allowfullscreen="true" data-ratio="0.7865168539325843"></iframe>
+  <iframe width="560" height="400" 
+  src="https://speakerdeck.com/player/2fcc1105e1bb42f0a449630d5fa5a134" 
+  frameborder="0" 
+  allowfullscreen 
+  title="Test">
+</iframe>
 </div>
 
 ---
