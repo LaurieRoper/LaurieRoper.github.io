@@ -2,7 +2,7 @@
 layout: single
 title: "Sketchbook"
 permalink: /Sketchbook/
-author_profile: true
+author_profile: false
 gallery:
   - image_path: /assets/images/April 25-0023-01.jpg
     alt: "A page of one-minute gesture drawings"
