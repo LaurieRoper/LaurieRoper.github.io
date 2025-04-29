@@ -1,7 +1,7 @@
 ---
 permalink: /Sketchbook/
 title: "Sketchbook"
-layout: gallery
+layout: single
 author_profile: true
 gallery:
   - url: /assets/images/April 25-0023-01.jpg
@@ -18,4 +18,6 @@ gallery:
     title: ""
 ---
 
-Gestures and simple drawings
+{% include gallery %}
+
+Gestures and simple drawings.
